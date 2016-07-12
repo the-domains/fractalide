@@ -1,0 +1,14 @@
+layout_spectrum: 0.6704635315109044
+typography_spectrum: 0.43612907477654517
+color:
+  brandStrength: 0.549013108946383
+  lightness: 0.792469235137105
+  saturation: 0.29877117625437677
+  rhythmicContrast: 0.9886582342442125
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: Fractalide
